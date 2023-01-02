@@ -1,5 +1,5 @@
 {
-    "name": "c",
+    "name": "@lanjian/component-lib",
     "version": "0.0.1",
     "description": "a react commont library",
     "scripts": {
